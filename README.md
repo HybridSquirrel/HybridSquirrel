@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-  ![alt text] (/SquirrelDragonLogov2.png)
+  ![alt text] (https://avatars.githubusercontent.com/u/10682258?s=96&v=4)
 
 <!--
 **HybridSquirrel/HybridSquirrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
