@@ -28,7 +28,13 @@
 [comment]: <> (TODO: add cool code quotes)
 ```C
 
-
+void ProgrammerJoke()
+{
+    if(!false)
+    {
+        printf("It's funny because it's true");
+    }
+}
 
 ```
 
