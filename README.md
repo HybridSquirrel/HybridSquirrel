@@ -1,8 +1,4 @@
-<h1>No longer using Github; Using https://gitlab.com/HybridSquirrel 
-    https://gitlab.com/hybridsquirrel-public-repositories
-    https://gitlab.com/hybridsquirrel-public-archive
-    </1h>
-
+<h1>Considering to use Github again...</h1>
 
 
 
