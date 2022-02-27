@@ -116,6 +116,8 @@ void ProgrammerJoke()
     <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/tryhackme.svg" title="Tryhackme"/>
     <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" title="Linkedin"/>
     <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/hackerrank.svg" title="Hackerrank"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/gitlab.svg" title="Gitlab CI/CD"/>
+
 
     
 
