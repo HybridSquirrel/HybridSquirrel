@@ -17,8 +17,80 @@
     <img src="https://avatars.githubusercontent.com/u/98660351?s=400&u=03bb3e354c58ca1fc0033270c40560dc4d330d85&v=4" alt="" width="125" />
 </div>
 
+---
+
+<h3 align="center">Links:</h3>
+<div align="center">
+    <img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/hackthebox.svg" title="Hackthebox"/>    
+    <img align="right" height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/hackthebox.svg" title="Hackthebox"/>
+    <a href=""><h3>Hack the box</h3></a>
+
+</div>
+
+[comment]: <> (Spacer)
+<h4 align="center"> </h4>
+
+<div align="center">
+    <img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/tryhackme.svg" title="Tryhackme"/>    
+    <img align="right" height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/tryhackme.svg" title="Tryhackme"/>
+    <a href=""><h3>Try hack me</h3></a>
+
+</div>
 
 
+
+[comment]: <> (Spacer)
+<h4 align="center"> </h4>
+
+<div align="center">
+    <img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/hackerrank.svg" title="Hackerrank"/>    
+    <img align="right" height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/hackerrank.svg" title="Hackerrank"/>
+    <a href=""><h3>Hacker Rank</h3></a>
+
+</div>
+
+
+<div align="center">
+    <img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/kaggle.svg" title="Kaggle"/>    
+    <img align="right" height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/kaggle.svg" title="Kaggle"/>
+    <a href=""><h3>Kaggle</h3></a>
+
+</div>
+
+
+<div align="center">
+    <img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" title="Linkedin"/>    
+    <img align="right" height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" title="Linkedin"/>
+    <a href=""><h3>LinkedIn</h3></a>
+
+</div>
+
+<div align="center">
+    <img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/docker.svg" title="Docker"/>    
+    <img align="right" height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/docker.svg" title="Docker"/>
+    <a href=""><h3>Docker</h3></a>
+
+</div>
+
+<div align="center">
+    <img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/gitlab.svg" title="Gitlab"/>    
+    <img align="right" height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/gitlab.svg" title="Gitlab"/>
+    <a href="https://gitlab.com/HybridSquirrel" ><h3>GitLab</h3></a>
+
+</div>
+
+
+
+
+    
+    
+    
+    
+    
+
+    
+
+---
 [comment]: <> (Spacer)
 <h4 align="center"> </h4>
 
@@ -63,7 +135,7 @@ void ProgrammerJoke()
     <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/datagrip.svg" title="Datagrip IDE"/>
     <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/clion.svg" title="Clion IDE"/>
     <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/webstorm.svg" title="Webstorm IDE"/>
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/pycharm.svg" title="pycharm"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/pycharm.svg" title="Pycharm"/>
     <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/intellijidea.svg" title="Intellij IDE"/>
     <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/goland.svg" title="Goland IDE"/>
     <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/androidstudio.svg" title="Android Studio"/>
