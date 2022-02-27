@@ -23,7 +23,7 @@
 <div align="center">
     <img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/hackthebox.svg" title="Hackthebox"/>    
     <img align="right" height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/hackthebox.svg" title="Hackthebox"/>
-    <a href=""><h3>Hack the box</h3></a>
+    <h3 align="center"> <a href="https://app.hackthebox.com/profile/954985"> Hack the box </a> </h3>
 
 </div>
 
@@ -33,7 +33,7 @@
 <div align="center">
     <img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/tryhackme.svg" title="Tryhackme"/>    
     <img align="right" height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/tryhackme.svg" title="Tryhackme"/>
-    <a href=""><h3>Try hack me</h3></a>
+    <h3 align="center"> <a href="https://tryhackme.com/p/HybridSquirrel"> Try Hack Me </a> </h3>
 
 </div>
 
@@ -45,7 +45,7 @@
 <div align="center">
     <img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/hackerrank.svg" title="Hackerrank"/>    
     <img align="right" height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/hackerrank.svg" title="Hackerrank"/>
-    <a href=""><h3>Hacker Rank</h3></a>
+    <h3 align="center"> <a href="https://www.hackerrank.com/HybridSquirrel"> HackerRank </a> </h3>
 
 </div>
 
@@ -53,7 +53,7 @@
 <div align="center">
     <img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/kaggle.svg" title="Kaggle"/>    
     <img align="right" height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/kaggle.svg" title="Kaggle"/>
-    <a href=""><h3>Kaggle</h3></a>
+    <h3 align="center"> <a href="https://www.kaggle.com/hybridsquirrel"> Kaggle </a> </h3>
 
 </div>
 
@@ -61,22 +61,21 @@
 <div align="center">
     <img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" title="Linkedin"/>    
     <img align="right" height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" title="Linkedin"/>
-    <a href=""><h3>LinkedIn</h3></a>
+    <h3 align="center"> <a href="https://www.linkedin.com/in/robertekorre"> LinkedIn </a> </h3>
 
 </div>
 
 <div align="center">
     <img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/docker.svg" title="Docker"/>    
     <img align="right" height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/docker.svg" title="Docker"/>
-    <a href=""><h3>Docker</h3></a>
+    <h3 align="center"> <a href="https://hub.docker.com/u/hybridsquirrel"> Docker </a> </h3>
 
 </div>
 
 <div align="center">
     <img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/gitlab.svg" title="Gitlab"/>    
     <img align="right" height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/gitlab.svg" title="Gitlab"/>
-    <a href="https://gitlab.com/HybridSquirrel" ><h3>GitLab</h3></a>
-
+    <h3 align="center"> <a href="https://gitlab.com/HybridSquirrel"> GitLab </a> </h3>
 </div>
 
 
