@@ -42,15 +42,15 @@ void ProgrammerJoke()
 
 <h3 align="center">Languages:</h3>
 <p align="center">
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/csharp.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/python.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/typescript.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/javascript.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/html5.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/css3.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/kotlin.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/sqlite.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/gnubash.svg" />
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/csharp.svg" title="CSharp"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/python.svg" title="Python"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/typescript.svg" title="Typescript"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/javascript.svg" title="Javascript"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/html5.svg" title="HTML"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/css3.svg" title="CSS"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/kotlin.svg" title="Kotlin"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/sqlite.svg" title="Sqlite"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/gnubash.svg" title="Bash"/>
 
 
 
@@ -59,50 +59,65 @@ void ProgrammerJoke()
 
 <h3 align="center">Tools:</h3>
 <p align="center">
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/rider.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/datagrip.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/clion.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/webstorm.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/pycharm.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/intellijidea.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/goland.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/androidstudio.svg" />
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/rider.svg" title="Rider IDE"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/datagrip.svg" title="Datagrip IDE"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/clion.svg" title="Clion IDE"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/webstorm.svg" title="Webstorm IDE"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/pycharm.svg" title="pycharm"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/intellijidea.svg" title="Intellij IDE"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/goland.svg" title="Goland IDE"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/androidstudio.svg" title="Android Studio"/>
 </p>
 <p align="center">
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/git.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/gitlab.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/github.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linux.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/vim.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/docker.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/android.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/selenium.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/react.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/unity.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/nodedotjs.svg" />
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/git.svg" title="Git"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/gitlab.svg" title="Gitlab"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/github.svg" title="Github"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linux.svg" title="Linux"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/vim.svg" title="Vim"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/docker.svg" title="Docker"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/android.svg" title="Android"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/selenium.svg" title="Selenium"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/react.svg" title="React"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/unity.svg" title="Unity"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/nodedotjs.svg" title="Nodejs"/>
 
 
 </p>
 
 <h3 align="center">Learning:</h3>
 <p align="center">
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/c.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/cplusplus.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/rust.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/go.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/d3dotjs.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/r.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/cisco.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/amazonaws.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/svelte.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/cmake.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/vulkan.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/opengl.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/opencv.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/kubernetes.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/tensorflow.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/unrealengine.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/redhat.svg" />
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/c.svg" title="C"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/cplusplus.svg" title="C++"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/rust.svg" title="Rust"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/go.svg" title="Go"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/d3dotjs.svg" title="D3js"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/r.svg" title="R"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/cisco.svg" title="Cisco"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/amazonaws.svg" title="AWS"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/svelte.svg" title="Svelte"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/cmake.svg" title="Cmake"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/vulkan.svg" title="Vulkan"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/opengl.svg" title="Opengl"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/opencv.svg" title="Opencv"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/kubernetes.svg" title="Kubernetes"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/tensorflow.svg" title="Tensorflow"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/pytorch.svg" title="Pytorch"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/unrealengine.svg" title="Unreal Engine"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/redhat.svg" title="Redhat"/>
+
+
+</p>
+<p align="center">
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/kalilinux.svg" title="Kali linux"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/kaggle.svg" title="Kaggle"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/jetpackcompose.svg" title="Jetpackcompose"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/jenkins.svg" title="Jenkins"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/hackthebox.svg" title="Hackthebox"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/tryhackme.svg" title="Tryhackme"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" title="Linkedin"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/hackerrank.svg" title="Hackerrank"/>
+
+    
 
 
 </p>
