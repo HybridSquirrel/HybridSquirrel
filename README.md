@@ -102,6 +102,7 @@ void ProgrammerJoke()
     <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/kubernetes.svg" />
     <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/tensorflow.svg" />
     <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/unrealengine.svg" />
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/redhat.svg" />
 
 
 </p>
